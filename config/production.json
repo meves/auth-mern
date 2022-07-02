@@ -1,0 +1,11 @@
+{
+    "port": 5000,
+    "dBase": {
+        "host": "localhost",
+        "user": "root",
+        "password": "Hk_61-S*d+85",
+        "database": "mern"
+    }, 
+    "jwtSecret": "reijbiuhiekjnkjned87t8758dejkhb3hbjkh32jhvjhgv23jhvj",
+    "baseUrl": "http://localhost:5000"
+}

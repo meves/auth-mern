@@ -1,0 +1,11 @@
+@import '~materialize-css/dist/css/materialize.min.css';
+
+:root {
+    box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+    box-sizing: inherit;
+}
